@@ -1,6 +1,4 @@
-Here’s a README.md template for a mental health project on GitHub:
 
-```markdown
 # Mental Health Awareness Project
 
 Welcome to the Mental Health Awareness Project! This initiative aims to raise awareness about mental health issues, provide resources for individuals seeking help, and foster a supportive community.
