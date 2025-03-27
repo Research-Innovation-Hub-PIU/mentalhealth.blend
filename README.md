@@ -60,14 +60,13 @@ After setting up the application, you can explore various mental health resource
 
 Check out this preview of the Mental Health Awareness Project in action:
 
-![Screen Recording](media/screen_recording_functionality.gif)
+![Screen Recording](media/screen_recording.gif)
 
 ### 📺 Full Video Display
 
-<video width="600" controls>
-  <source src="media/Screen%20Recording%202024-10-24%20141024.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Video](media/video_thumbnail.jpg)](media/Screen%20Recording%202024-10-24%20141024.mp4)
+
+Click the image to watch the full video.
 
 ## 📚 Resources
 
