@@ -44,9 +44,12 @@ To set up the Mental Health Awareness Project locally, follow these steps:
    ```
    *(or the appropriate command based on the technology stack used)*
 
+
 ## Usage
 
 After setting up the application, you can explore various mental health resources, participate in discussions, and use self-help tools. Instructions for each feature will be provided within the app.
+##SCREEN 
+
 
 ## Resources
 
