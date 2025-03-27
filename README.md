@@ -25,23 +25,31 @@ Welcome to the Mental Health Awareness Project! This initiative aims to raise aw
 To set up the Mental Health Awareness Project locally, follow these steps:
 
 1. 🏷 **Clone the repository:**
+
    ```bash
    git clone https://github.com/YourUsername/MentalHealthAwareness.git
    ```
+
 2. 📂 **Navigate to the project directory:**
+
    ```bash
    cd MentalHealthAwareness
    ```
+
 3. 📦 **Install dependencies:**
+
    ```bash
    npm install
    ```
+
    *(or the appropriate command based on the technology stack used)*
 
 4. ▶️ **Run the application:**
+
    ```bash
    npm start
    ```
+
    *(or the appropriate command based on the technology stack used)*
 
 ## 📖 Usage
@@ -52,9 +60,14 @@ After setting up the application, you can explore various mental health resource
 
 Check out this preview of the Mental Health Awareness Project in action:
 
-![Screen Recording](media/screen_recording_preview.gif)
+![Screen Recording](media/screen_recording_functionality.gif)
 
-For the full video, [click here](media/Screen%20Recording%202024-09-12%20171809.mp4).
+### 📺 Full Video Display
+
+<video width="600" controls>
+  <source src="media/Screen%20Recording%202024-10-24%20141024.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 📚 Resources
 
@@ -98,5 +111,6 @@ For more information or if you need assistance, please contact:
 Thank you for visiting the Mental Health Awareness Project! 💙 Together, we can make a difference.
 
 ### 🎨 Customization
+
 Feel free to modify any sections to better suit your project’s focus, add specific features, or include additional resources as needed!
 
